@@ -1,5 +1,5 @@
 /**
-* @license StewartPrivateLicense-2.0.1
+* @license MIT
 * Copyright (c) Gradyruan 2024
 *
 * You may not reproduce or distribute any code inside this file without the licenser's permission.
