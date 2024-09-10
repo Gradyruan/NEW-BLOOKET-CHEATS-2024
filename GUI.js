@@ -1,16 +1,3 @@
-// ==UserScript==
-// @name         Blooket Gui
-// @namespace    http://tampermonkey.net/
-// @version      1.3.5.1
-// @author       Gradyruan
-// @license      MIT
-// @description  New blooket cheats. An Updated version of Minesraft2 and 05konz's blooket cheats. Check out a new version of these Blooket Cheats: https://greasyfork.org/en/scripts/507043-updated-blooket-gui
-// @match        *://*.blooket.com/*
-// @match        *://blooket.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=blooket.com
-// @grant        none
-// ==/UserScript==
- 
 (function() {
     'use strict';
 (() => {
